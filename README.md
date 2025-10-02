@@ -18,11 +18,11 @@
             src="https://custom-icon-badges.demolab.com/github/stars/carlos7nas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="www.linkedin.com/in/carlosvitordonascimento">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosvitordonascimento)"
+    <a href="https://www.linkedin.com/in/carlosvitordonascimento">
+      <img
+          alt="LinkedIn"
+          title="LinkedIn"
+          src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"
         />
     </a>
 
