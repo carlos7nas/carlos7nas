@@ -1,6 +1,6 @@
 ## 🧑🏾‍💻 Carlos Vitor
 
-**`Desenvolvedor Back-End (.NET)`**
+**`Futuro Desenvolvedor Back-End`**
 
   Me chamo Carlos Vitor, tenho 21 anos e sou de São Paulo. Atualmente, estou cursando Informática para Negócios na Fatec Mauá. Aficionado por tecnologia, busco ampliar meus conhecimentos, descobrir novos hobbies, novas tecnologias e com isso construir uma carreira sólida na área. 
 
@@ -27,6 +27,14 @@
     </a>
 
 ### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 <img 
   align="left" 
   alt="C#" 
